@@ -1,7 +1,7 @@
-#Job Search Log
+# Job Search Log
 This repository contains a comprehensive personal log of my job search, including successful job applications, a list of people I've contacted, networking events I've attended, activities I've conducted in search of employment, job offers, interviews, and more.
 
-#Folder Structure
+# Folder Structure
 The repository has the following folder structure:
 
 applications: contains images/snapshots of successful job applications
