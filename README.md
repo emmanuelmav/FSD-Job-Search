@@ -4,11 +4,11 @@ This repository contains a comprehensive personal log of my job search, includin
 ## Folder Structure
 Inside each ***Week*** folder you will find following folder structure:
 
-**summary.txt:** contains a summary of the all the activities I've conducted in search of employment, such as research, skill-building exercises, and other related tasks, any job offers I've received, along with any notes and information relevant to the offer 
-
 **applications:** contains images/snapshots of successful job applications
 
 **contacts:** contains a list of people I've contacted, along with their contact information and any relevant notes
+
+**summary.txt:** contains a summary of the all the activities I've conducted in search of employment, such as research, skill-building exercises, and other related tasks, any job offers I've received, along with any notes and information relevant to the offer 
 
 ## Job Sites Used
 Throughout the weeks I sent applications to various job sites including: 
